@@ -15,8 +15,6 @@ Process a messy, unformatted corporate dataset to ensure data integrity, structu
 *   **Data Deduplication:** Screened for and purged redundant records, establishing a reliable baseline of unique transaction keys (`OrderID`).
 *   **Formatting & Logic Alignment:** Standardized inconsistent text casing across text entries, removed trailing white spaces using advanced text functions, and structured date strings.
 
-<img width="1913" height="1016" alt="Data Preparation Step" src="https://github.com/user-attachments/assets/3aecdaf7-5c89-4e25-86b0-7baf21a3ee2e" />
-
 ---
 
 ## 📊 Week 2: Exploratory Data Analysis (EDA)
